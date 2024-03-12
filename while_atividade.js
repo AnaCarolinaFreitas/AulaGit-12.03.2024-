@@ -2,7 +2,7 @@
 let a = 10;
 let b = 30;
 
-let inicio;
+let i;
 let fim;
 
 if (a < b) {
