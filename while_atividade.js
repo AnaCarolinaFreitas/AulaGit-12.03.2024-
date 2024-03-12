@@ -1,5 +1,5 @@
 
-let a = 10;
+let primeiro = 10;
 let b = 30;
 
 let i;
