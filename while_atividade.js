@@ -1,6 +1,6 @@
 
 let a = 20;
-let b = 3;
+let b = 0;
 
 let i;
 let f;
