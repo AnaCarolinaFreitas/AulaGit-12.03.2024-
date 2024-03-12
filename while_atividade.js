@@ -6,17 +6,17 @@ let i;
 let f;
 
 if (a < b) {
-    inicio = primeiro;
-    fim = ultimo;
+    i = primeiro;
+    f = ultimo;
 
 } else {
-    inicio = ultimo;
-    fim = primeiro;
+    i = ultimo;
+    f = primeiro;
 
 }
-while (inicio <= fim) {
-    console.log(inicio);
-    inicio++;
+while (i <= f) {
+    console.log(i);
+    i++;
 
 }
 console.log("fim")
