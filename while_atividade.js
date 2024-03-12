@@ -3,7 +3,7 @@ let a = 10;
 let b = 30;
 
 let i;
-let fim;
+let f;
 
 if (a < b) {
     inicio = a;
