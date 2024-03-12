@@ -1,17 +1,17 @@
 
 let primeiro = 10;
-let b = 30;
+let ultimo = 30;
 
 let i;
 let f;
 
 if (a < b) {
-    inicio = a;
-    fim = b;
+    inicio = primeiro;
+    fim = ultimo;
 
 } else {
-    inicio = b;
-    fim = a;
+    inicio = ultimo;
+    fim = primeiro;
 
 }
 while (inicio <= fim) {
