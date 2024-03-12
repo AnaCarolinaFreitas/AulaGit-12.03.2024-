@@ -1,6 +1,6 @@
 
-let a = 10
-let b = 30
+let a = 10;
+let b = 30;
 
 let inicio;
 let fim;
