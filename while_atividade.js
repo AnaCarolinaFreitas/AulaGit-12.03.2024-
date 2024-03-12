@@ -1,5 +1,5 @@
 
-let a = 10;
+let a = 1;
 let b = 30;
 
 let i;
